@@ -1,0 +1,8 @@
+Origin: In-AppStore.com Cydia Repository
+Label: In-AppStore.com Cydia Repository 
+Suite: stable 
+Version: 1.0 
+Codename: stable 
+Architectures: darwin-arm 
+Components: main 
+Description: Provides packages required for iOS 6 to connect to In-AppStore.com servers 

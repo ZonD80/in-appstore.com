@@ -1,0 +1,12 @@
+RewriteEngine Off
+#RewriteCond %{HTTPS} off
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+#<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault "access plus 1 hour"
+#</IfModule>
+
+# BEGIN WordPress
+
+# END WordPress
